@@ -12,7 +12,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-			design r‰bbiz	c2014
+			design r√§bbiz	c2014
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
