@@ -784,3 +784,11 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+
+/*** neu *****/
+.site-info {
+	 background-color: aqua;
+	 text-align: center;
+}
+

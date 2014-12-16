@@ -12,9 +12,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-		    <div style="background-color: aqua; text-align: center;">
 		    <a   href="http://www.google.de">design räbbiz	c2014</a>
-			</div>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
