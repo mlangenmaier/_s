@@ -796,3 +796,12 @@ object {
 	text-align: center;
 	background-color: aqua;
 }
+
+.main-navigation li {
+	float: none;
+	display: inline;		
+}
+
+.main-navigation a {
+	display: inline;		
+}
