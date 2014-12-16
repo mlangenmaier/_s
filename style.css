@@ -799,9 +799,11 @@ object {
 
 .main-navigation li {
 	float: none;
-	display: inline;		
+	display: inline;
+	background-color: blue;	
 }
 
 .main-navigation a {
-	display: inline;		
+	display: inline;
+	padding: 5px;
 }
