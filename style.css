@@ -791,8 +791,8 @@ object {
 	 background-color: aqua;
 	 text-align: center;
 }
-header
-{
+
+.site-header {
 	text-align: center;
 	background-color: aqua;
 }
