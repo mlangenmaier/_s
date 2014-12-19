@@ -12,7 +12,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-		    <a   href="http://www.google.de">design räbbiz	c2014</a>
+		    <a   href="<?php echo esc_url( home_url( '/' ) ); ?>">design räbbiz	c2014</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
