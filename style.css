@@ -819,16 +819,16 @@ body {
 5.1 Links
 --------------------------------------------------------------*/
 a {
-	color: rgba (0, 0, 0, 0.87);
+	color: rgba(0, 0, 0, 0.87);
 }
 
 a:visited {
-	color: rgba (0, 0, 0, 0.87);
+	color: rgba(0, 0, 0, 0.87);
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: rgba (0, 0, 0, 0.87);
+	color: rgba(0, 0, 0, 0.87);
 }
 
