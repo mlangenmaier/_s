@@ -841,3 +841,19 @@ a:active {
 .main-navigation a:active {
     color: rgba(255, 61, 0, 1);
     background-color: #4e342e;
+}
+
+/*--------------------------------------------------------------
+2.0 Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: Roboto;
+	font-size: 16px;
+	font-size: 1.6rem;
+	line-height: 1.5;   
+}
