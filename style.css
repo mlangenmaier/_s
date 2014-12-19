@@ -857,3 +857,14 @@ textarea {
 	font-size: 1.6rem;
 	line-height: 1.5;   
 }
+
+
+
+@font-face {
+	font-family: "Roboto-Regular";
+	src: url("http://up-log.de/martin-langenmaier/wp-content/themes/underscores/fonts/roboto/Roboto-Regular.ttf");
+}
+
+body { font-family: "Roboto-Regular", serif }
+
+
