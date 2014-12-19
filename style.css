@@ -787,6 +787,10 @@ object {
 
 
 /*** neu *****/
+body {
+	background: #ff9e80; /* Fallback for when there is no custom background color defined. */
+}
+
 .site-info {
 	 background-color: aqua;
 	 text-align: center;
