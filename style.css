@@ -873,3 +873,6 @@ body { font-family: "Roboto-Regular", serif }
     margin-top: 2em;
 }
 
+h1.entry-title {
+	background-color: #ff3d00;
+}
