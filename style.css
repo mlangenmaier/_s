@@ -867,4 +867,9 @@ textarea {
 
 body { font-family: "Roboto-Regular", serif }
 
+.site-content {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2em;
+}
 
